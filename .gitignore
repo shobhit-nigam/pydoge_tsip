@@ -1,0 +1,6 @@
+# byte compiled
+__pycache__/
+*.py[cod]
+
+# virtual environment files
+virt/*
