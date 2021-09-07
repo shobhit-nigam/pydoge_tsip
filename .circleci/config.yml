@@ -26,5 +26,3 @@ jobs:
       - store_artifacts:
           path: test-reports/
           destination: pydoge_tsip
-
-              
